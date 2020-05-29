@@ -1,2 +1,0 @@
-# myprograms
-programs in C
