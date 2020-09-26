@@ -1,6 +1,4 @@
-a=[]
-for i in 'Narendra':
-    a.append(i)
+a=list('Narendra')
 for i in range(100):
     if i>7:
         i=i%7-1
