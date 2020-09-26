@@ -1,3 +1,4 @@
+# return more than one variable using one function
 def fact(i):
     fact=1
     while i>0:
