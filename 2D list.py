@@ -1,3 +1,4 @@
+# create a 2D list using fixed count of 1's in list at random indexes
 b=[]
 sum=0
 import random
